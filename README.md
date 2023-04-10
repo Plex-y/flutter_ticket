@@ -29,4 +29,4 @@ At last, you can change your divider settings:
 div: const Divider()
 
 
-<img src="https://res.cloudinary.com/djaf79gck/image/upload/v1681104524/v4ceu29hx43tjf1cnrbm.png" alt="How example looks" width="300" height="540">
+<img src="https://res.cloudinary.com/djaf79gck/image/upload/v1681104524/v4ceu29hx43tjf1cnrbm.png">
